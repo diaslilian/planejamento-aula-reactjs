@@ -1,0 +1,67 @@
+.title_h1 {
+  display: flex;
+  align-items: flex-start;
+  padding: 20px;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.plus_sign {
+  color: #35cbb0;
+}
+
+.container_counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.wrapper_counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  border: 8px solid #35cbb0;
+  border-radius: 50%;
+}
+
+.text_counter {
+  font-size: 1.85rem;
+  color: #35cbb0;
+}
+
+.wrapper_buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;
+}
+
+.button {
+  width: 148px;
+  height: 51px;
+  background: #35cbb0;
+  border-radius: 12px;
+  border: none;
+  color: #ffffff;
+  font-size: 1.25rem;
+}
+
+.button:last-child {
+  margin-left: 30px;
+}
+
+.reset_button {
+  width: 328px;
+  height: 51px;
+  background: #d6d6d6;
+  border-radius: 12px;
+  border: none;
+  color: #7b7b7b;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
