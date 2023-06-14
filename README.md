@@ -47,6 +47,8 @@
 
 [Demo](/Demostracao/contador-react/) - Projeto Contador com ReactJS
 
+- [Layout do contador](/Complementos/demo-contador.png)
+
 ---
 
 ### Avaliação
